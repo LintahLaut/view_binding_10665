@@ -7,6 +7,7 @@ import com.example.view_binding_10665.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     var binding: ActivityMainBinding? = null
+    //gigiggu
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
